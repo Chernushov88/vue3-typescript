@@ -32,8 +32,7 @@ export default defineComponent({
     }
 	},
 	setup(props){
-		console.log(props.jobs);
-		
+		console.log(props.jobs);		
 	}
 })
 </script>
